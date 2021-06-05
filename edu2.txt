@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Test EDU2 Modified0
+=======
+Test EDU2 Modified1
+>>>>>>> 0ba5751dd6774f13b0f74aa27fe5871ba90e4305
